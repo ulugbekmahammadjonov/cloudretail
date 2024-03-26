@@ -1,0 +1,9 @@
+{
+  "name": "cloudretail",
+  "private": true,
+  "scripts": {},
+  "workspaces": [
+    "apps/api",
+    "apps/web-ui"
+  ]
+}
